@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about software quality and software development.
 
-🤔 I’m looking for help with new Software Architectures.
+🤔 I’m always looking for new software architectures.
 
 🌱 I’m currently learning about Microservices, and how create CASE tools for generate automatically functional tests.
 
