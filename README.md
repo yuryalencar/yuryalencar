@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 🗄Portfolio and Projects: In this GitHub ! 
 
-📬 Contact: yuryalencar19@gmail.com
+📬 Contact: yuryalencar19@gmail.com or call me on [LinkedIn](https://www.linkedin.com/in/yurylima/)
