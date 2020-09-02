@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning about Microservices, and how create CASE tools for generate automatically functional tests.
 
-🗄Portfolio and Projects: In this GitHub ! 
+🗄 Portfolio and Projects: In this GitHub ! 
 
 📬 Contact: Send a e-mail for yuryalencar19@gmail.com, or call me on [LinkedIn](https://www.linkedin.com/in/yurylima/)
