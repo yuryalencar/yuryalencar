@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻   Software Engineer from Universidade Federal do Pampa, member of the LESSEE research group since 2016 and Full Stack Developer. Currently doing a professional master's degree in software engineer.
+#### GitHub informations 📈
+
+[![card](https://github-readme-stats.vercel.app/api?username=yuryalencar&theme=default&show_icons=true)](https://github.com/yuryalencar/)
+
+[![yuryalencar](https://github-readme-stats.vercel.app/api/top-langs/?username=yuryalencar&hide=html&layout=compact=true&theme=default)](https://github.com/yuryalencar/)
+
+#### General informations 👨🏻‍💻
+
+👨🏻‍💻   Software Engineer from Universidade Federal do Pampa, member of the LESSE research group since 2016 and Full Stack Developer. Currently doing a professional master's degree in software engineer.
 
 🔥  Topics of interest: New languages, architectures, design patterns, challenges, techniques to improve the quality of applications and effective and simplified solutions.
 
@@ -23,9 +31,9 @@ Here are some ideas to get you started:
 
 💬  Ask me about software quality and software development.
 
-🤔  I’m always looking for new software architectures.
+🤔  I’m always looking for new software architectures and best automation solutions.
 
-🌱  I'm currently learning about microservices, lambda and how to improve my CASE tools to generate more efficient functional tests.
+🌱  I'm currently learning about automation, lambda and how to improve my CASE tools to generate more efficient functional tests.
 
 🗄  Portfolio and Projects: In this GitHub ! 
 
