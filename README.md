@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yuryalencar19@gmail.com" /></a>
 
   <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurylima" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[link](https://www.linkedin.com/in/yurylima)" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
@@ -65,25 +65,3 @@ Here are some ideas to get you started:
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
-
-<!-- #### GitHub informations 📈
-
-[![card](https://github-readme-stats.vercel.app/api?username=yuryalencar&theme=default&show_icons=true)](https://github.com/yuryalencar/)
-
-#### General informations 👨🏻‍💻
-
-👨🏻‍💻   Software Engineer from Universidade Federal do Pampa, member of the LESSE research group since 2016 and Full Stack Developer. Currently doing a professional master's degree in software engineer.
-
-🔥  Topics of interest: New languages, architectures, design patterns, challenges, techniques to improve the quality of applications and effective and simplified solutions.
-
-📑  At LESSE: Acting on the development and idealization of new solutions to increase the quality of the software, from code to automated tests. Simplifying and reducing the time required to deliver a quality application.
-
-💬  Ask me about software quality and software development.
-
-🤔  I’m always looking for new software architectures and best automation solutions.
-
-🌱  I'm currently learning about automation, lambda and how to improve my CASE tools to generate more efficient functional tests.
-
-🗄  Portfolio and Projects: In this GitHub ! 
-
-📬  Contact: Send a e-mail for yuryalencar19@gmail.com, or call me on [LinkedIn](https://www.linkedin.com/in/yurylima/) -->
