@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Software Engineer</strong> from Universidade Federal do Pampa, member of the LESSE research group since 2016. Currently, I'm <strong>CEO at Teasy Solutions</strong>, <strong>Head of Software Quality at CondoConta</strong>, and finishing my professional master's degree in software engineering.
+  <strong>Master in Software Engineer</strong> from Universidade Federal do Pampa, member of the LESSE research group since 2016. Currently, I'm <strong>Founder & Software Enginneer at Teasy Solutions</strong> and <strong>Head of Software Quality at CondoConta</strong>.
 </p>
 
 <p align="left">
