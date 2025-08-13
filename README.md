@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🔥  Topics of interest: <strong>New languages, frameworks, architectures, design patterns, techniques to improve software quality, and how to simplify my code.</strong>
+  🔥  Topics of interest: <strong>AI automations, New languages, frameworks, architectures, design patterns, techniques to improve software quality, and how to simplify my code.</strong>
 </p>
 
 <p align="left">
