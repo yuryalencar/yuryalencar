@@ -17,24 +17,24 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  <strong>Master in Software Engineer</strong> from Universidade Federal do Pampa, member of the LESSE research group since 2016. Currently, I'm <strong>Founder & Software Enginneer at Teasy Solutions</strong>.
+<p align="left">
+  <strong>PhD student in Computer Science at Johannes Kepler Universität Linz (JKU)</strong>, Master in Software Engineering from Universidade Federal do Pampa (UNIPAMPA), and former member of the LESSE research. Currently, I'm <strong>Researcher at JKU and Founder & Software Engineer at Teasy Solutions</strong>.
 </p>
 
 <p align="left">
-  👨🏻‍💻 My best language: <strong>JavaScript</strong>
+  👨🏻‍💻 My best language: <strong>JavaScript/Typescript</strong>
 </p>
 
 <p align="left">
-  🧠 But I know too: <strong>Python, GO, Ruby, PHP, Dart, JAVA, and MPS Base Language.</strong>
+  🧠 But I know too: <strong>JAVA, Python, PHP, Dart, Ruby, C#, and MPS Base Language.</strong>
 </p>
 
 <p align="left">
-  📦 And frameworks ? <strong>Serverless, NextJS, Tailwind...</strong> a lot to write, send me a message so we talk about
+  📦 And frameworks ? <strong>Serverless, NextJS, NestJS, Tailwind...</strong> a lot to write, send me a message so we talk about
 </p>
 
 <p align="left">
-  🔥  Topics of interest: <strong>AI automations, New languages, frameworks, architectures, design patterns, techniques to improve software quality, and how to simplify my code.</strong>
+  🔥  Topics of interest: <strong>Collaborative work, AI Agents, AI automations, New languages, Frameworks, Architectures, Design Patterns, Techniques to improve software quality, and ways to simplify my code.</strong>
 </p>
 
 <p align="left">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  ☁️ Cloud services most used: <strong>AWS (EC2, SQS, Lambda, DynamoDB, S3), Digital Ocean (Droplets), CloudFlare.</strong>
+  ☁️ Cloud services most used: <strong>AWS (EC2, SQS, Lambda, DynamoDB, S3, SES, RDS, and more), Digital Ocean (Droplets), CloudFlare, Vercel.</strong>
 </p>
 
 <p align="left">
